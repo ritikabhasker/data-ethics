@@ -7,7 +7,8 @@
 * [Zeynep Tufekci: Engineering the Public](http://firstmonday.org/article/view/4901/4097)   
 * [Baumer, Kaplan, Horton: Modern Data Science with R, Chapter 6](https://www.researchgate.net/publication/321757804_Modern_Data_Science_with_R_-_Professional_Ethics_mdsr-bookgithubio)    
 * [Matthew Salganik: Bit by Bit, Chapter 6](https://www.bitbybitbook.com/en/1st-ed/ethics/ethics-intro/)    
-* [Hanna Wallach: Big Data, Machine Learning, and the Social Sciences](https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d)
+* [Hanna Wallach: Big Data, Machine Learning, and the Social Sciences](https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d)    
+* [DJ Patil, Hilary Mason, Mike Loukides: Ethics and Data Science](https://www.amazon.com/Ethics-Data-Science-Mike-Loukides-ebook/dp/B07GTC8ZN7/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1536608605&sr=1-2)
 
 #### Case Studies:
 * [YouTube and the Decision to Alter 'It Gets Better' Data](https://bdes.datasociety.net/council-output/case-study-it-was-a-matter-of-life-and-death-a-youtube-engineers-decision-to-alter-data-in-the-it-gets-better-project/)    
